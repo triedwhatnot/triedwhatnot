@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Shubham!
 
-<!--
-**triedwhatnot/triedwhatnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Technologies:** JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, Material UI, Redux, Node, Express, Firebase, Firestore
+
+**Analytics and Monitoring:** Google Analytics, Sentry, Web Vitals, A/B Testing
+
+**Testing:** React Testing Library, Jest, JS-DOM, Jest-DOM, Vitest
+
+**Build Tools:** Vite, CRA, Gulp, Babel, Webpack, Gradle, Terser, Git
+
+**Other Skills:** SEO, SSR, Security, Short Polling, Caching, Performance
+
+
+## Reach Out to Me
+
+Feel free to get in touch through any of the following channels:
+
+- **Email:** [triedwhatnot@gmail.com](mailto:triedwhatnot@gmail.com)
+- **Website:** [triedwhatnot.com](https://triedwhatnot.com/)
+- **LinkedIn:** [in/triedwhatnot](https://www.linkedin.com/in/triedwhatnot)
