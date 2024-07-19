@@ -19,5 +19,5 @@
 Feel free to get in touch through any of the following channels:
 
 - **Email:** [triedwhatnot@gmail.com](mailto:triedwhatnot@gmail.com)
-- **Website:** [triedwhatnot.com](https://triedwhatnot.com/)
+- **Website:** [www.triedwhatnot.com](https://www.triedwhatnot.com/)
 - **LinkedIn:** [in/triedwhatnot](https://www.linkedin.com/in/triedwhatnot)
